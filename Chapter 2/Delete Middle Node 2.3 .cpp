@@ -62,6 +62,4 @@ int main() {
   cout << "After: ";
   delMidNode(head, MIDNODE);
   printList(head);
-  
-  
 }
